@@ -67,6 +67,19 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\ClassExtender.cs" />
+    <Compile Include="Model\NewDataSet.cs" />
+    <Compile Include="Model\QuestData.cs" />
+    <Compile Include="Model\QuestDataBookmarksBookmark.cs" />
+    <Compile Include="Model\QuestDataEventsQuestEvent.cs" />
+    <Compile Include="Model\QuestDataNodesFlowChartNode.cs" />
+    <Compile Include="Model\QuestDataNodesFlowChartNodeConditionals.cs" />
+    <Compile Include="Model\QuestDataNodesFlowChartNodeConditionalsComponentsExpressionComponent.cs" />
+    <Compile Include="Model\QuestDataNodesFlowChartNodeConditionalsComponentsExpressionComponentData.cs" />
+    <Compile Include="Model\QuestDataNodesFlowChartNodeEndStatesQuestEndState.cs" />
+    <Compile Include="Model\QuestDataNodesFlowChartNodeLinksFlowChartLink.cs" />
+    <Compile Include="Model\StringTableFile.cs" />
+    <Compile Include="Model\StringTableFileEntriesEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
